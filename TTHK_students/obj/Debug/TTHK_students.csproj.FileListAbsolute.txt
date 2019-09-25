@@ -1,0 +1,7 @@
+C:\Users\lizez\source\repos\TTHK_students\TTHK_students\obj\Debug\TTHK_students.csprojAssemblyReference.cache
+C:\Users\lizez\source\repos\TTHK_students\TTHK_students\obj\Debug\TTHK_students.csproj.CoreCompileInputs.cache
+C:\Users\lizez\source\repos\TTHK_students\TTHK_students\bin\Debug\TTHK_students.exe.config
+C:\Users\lizez\source\repos\TTHK_students\TTHK_students\bin\Debug\TTHK_students.exe
+C:\Users\lizez\source\repos\TTHK_students\TTHK_students\bin\Debug\TTHK_students.pdb
+C:\Users\lizez\source\repos\TTHK_students\TTHK_students\obj\Debug\TTHK_students.exe
+C:\Users\lizez\source\repos\TTHK_students\TTHK_students\obj\Debug\TTHK_students.pdb
